@@ -1,0 +1,17 @@
+{
+ "sha": "304b514",
+ "result": "success",
+ "run": "37164792502",
+ "time": "2026-10-04T00:30:41Z",
+ "tests": [
+  "story: 通过（69s） {\"errs\":[],\"pairs\":947,\"bad\":[],\"bridge\":[],\"early\":[],\"sheet\":\"11731 字 → tools/test/out/台词表.md · 节奏表.md · maps/（15 张）\",\"mapN\":15}",
+  "layout:500x860:touch: 通过（114s） {\"errs\":[],\"size\":[500,773],\"over\":[],\"n\":262,\"zh\":[],\"comic\":\"CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC\",\"endArt\":\"--\"}",
+  "layout:844x390:touch: 通过（118s） {\"errs\":[],\"size\":[844,303],\"over\":[],\"n\":262,\"zh\":[],\"comic\":\"------------------------------\",\"endArt\":\"--\"}",
+  "layout:1280x720: 通过（122s） {\"errs\":[],\"size\":[1280,633],\"over\":[],\"n\":262,\"zh\":[],\"comic\":\"CCCCCC-CCC--CC-CCCCCCCCCCCCC-C\",\"endArt\":\"AA\"}",
+  "layout:1024x600: 通过（125s） {\"errs\":[],\"size\":[1024,513],\"over\":[],\"n\":262,\"zh\":[],\"comic\":\"CCCCCCCCC-CCCCCCCCCCCCCCCCCCCC\",\"endArt\":\"AA\"}",
+  "layout:1366x768: 通过（128s） {\"errs\":[],\"size\":[1366,681],\"over\":[],\"n\":262,\"zh\":[],\"comic\":\"CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC\",\"endArt\":\"AA\"}",
+  "tutorial: 通过（158s） {\"errs\":[],\"log\":[\"2:true\",\"3:true\",\"4:true\",\"5:true\",\"6:true\",\"7:true\",\"8:true\",\"9:true\",\"10:true\",\"11:true\"],\"tutDone\":\"done\"}",
+  "modes: 通过（395s） {\"errs\":[],\"endless\":{\"wave\":5,\"mode\":\"endless\",\"st\":\"play\"},\"rush\":{\"i\":2,\"st\":\"play\",\"stg\":2},\"rushSide\":{\"n0\":9,\"n1\":11,\"keys\":\"storm,pit\",\"desc\":true,\"at\":\"storm\",\"st\":\"play\",\"boss\":true,\"next\":\"pit\",\"mode\":\"bossrush\",\"prac\":2,\"pracAt\":\"practice:pit:door\"},\"sideStars\":{\"got\":\"111\",\"saved\":\"7\",\"card\":3,\"line\":true,\"total\":true},\"cpFix\":{\"shaft\":true,\"card\":true,\"own\":true,\"two\":true,\"hard\":true,\"hlSeg\":true},\"relics\":{\"reach\":\"11111\",\"card\":true,\"n\":5,\"ach\":true,\"skin\":true,\"view\":true,\"lore\":true,\"prac\":true,\"story\":true},\"vicSheathe\":{\"sheathed\":{\"again\":false,\"noto\":19},\"",
+  "boss: 通过（425s） {\"errs\":[],\"sum\":\"roof✓3625 street✓1064 highway✓417 maglev✓4047 factory✓1024 club✓1089 tower✓737 hq✓372 rooftop✓1810 senpai✓1239 master✓2008 pit✓1612 storm✓1735 cyber✓764\",\"bosses\":[{\"key\":\"roof\",\"rig\":\"roof:police\",\"won\":true,\"n\":3625,\"last\":\"none\",\"hit\":\"none,talk,police\",\"st\":\"play\",\"boss\":0,\"hp\":null,\"phase\":null,\"foes\":\"\",\"truck\":false,\"turrets\":null},{\"key\":\"street\",\"rig\":\"street:kage\",\"won\":true,\"n\":1064,\"last\":\"none\",\"hit\":\"none,talk,kage\",\"st\":\"play\",\"boss\":null,\"hp\":null,\"phase\":null,\"foes\":\"\",\"truck\":false,\"turrets\":null},{\"key\":\"highway\",\"rig\":\"highway\",\"won\":true,\"n"
+ ]
+}
