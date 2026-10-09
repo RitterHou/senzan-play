@@ -1,0 +1,23 @@
+{
+ "sha": "049b382",
+ "result": "success",
+ "run": "37956916052",
+ "time": "2026-10-09T16:14:24Z",
+ "tests": [
+  "tutorial: 通过（32s）  {\"errs\":[],\"log\":[\"2:true\",\"3:true\",\"4:true\",\"5:true\",\"6:true\",\"7:true\",\"8:true\",\"9:true\",\"10:true\",\"11:true\"],\"tutDone\":\"done\"}",
+  "boss: 通过（185s）  {\"errs\":[],\"sum\":\"roof✓2662 street✓1068 highway✓417 maglev✓3784 factory✓1016 club✓1629 tower✓740 hq✓372 rooftop✓1653 senpai✓1315 master✓1983 pit✓1505 storm✓2245 cyber✓754\",\"bosses\":[{\"key\":\"roof\",\"rig\":\"roof:police\",\"won\":true,\"n\":2662,\"last\":\"none\",\"hit\":\"none,talk,police\",\"st\":\"play\",\"boss\":0,\"hp\":null,\"phase\":null,\"foes\":\"\",\"truck\":false,\"turrets\":null},{\"key\":\"street\",\"rig\":\"street:kage\",\"won\":true,\"n\":1068,\"last\":\"none\",\"hit\":\"none,talk,kage\",\"st\":\"play\",\"boss\":null,\"hp\":null,\"phase\":null,\"foes\":\"\",\"truck\":false,\"turrets\":null},{\"key\":\"highway\",\"rig\":\"highway\",\"won\":true,\"",
+  "story: 通过（9s）  {\"errs\":[],\"pairs\":1103,\"bad\":[],\"bridge\":[],\"early\":[],\"sheet\":\"11889 字 → tools/test/out/台词表.md · 节奏表.md · maps/（15 张）\",\"mapN\":15}",
+  "layout:1366x768: 通过（20s）  {\"errs\":[],\"size\":[1366,681],\"over\":[],\"n\":278,\"zh\":[],\"comic\":\"CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC\",\"endArt\":\"AA\"}",
+  "layout:1280x720: 通过（22s）  {\"errs\":[],\"size\":[1280,633],\"over\":[],\"n\":278,\"zh\":[],\"comic\":\"CCCCCC-CCC--CC-CCCCCCCCCCCCC-C\",\"endArt\":\"AA\"}",
+  "layout:1024x600: 通过（18s）  {\"errs\":[],\"size\":[1024,513],\"over\":[],\"n\":278,\"zh\":[],\"comic\":\"CCCCCCCCC-CCCCCCCCCCCCCCCCCCCC\",\"endArt\":\"AA\"}",
+  "modes: 通过（290s）  {\"errs\":[],\"endless\":{\"wave\":5,\"mode\":\"endless\",\"st\":\"play\"},\"rush\":{\"i\":2,\"st\":\"play\",\"stg\":2},\"rushSide\":{\"n0\":9,\"n1\":11,\"keys\":\"storm,pit\",\"desc\":true,\"at\":\"storm\",\"st\":\"play\",\"boss\":true,\"next\":\"pit\",\"mode\":\"bossrush\",\"prac\":2,\"pracAt\":\"practice:pit:door\"},\"sideStars\":{\"got\":\"111\",\"saved\":\"7\",\"card\":3,\"line\":true,\"total\":true},\"cpFix\":{\"shaft\":true,\"card\":true,\"own\":true,\"two\":true,\"hard\":true,\"hlSeg\":true},\"relics\":{\"reach\":\"11111\",\"card\":true,\"n\":5,\"ach\":true,\"skin\":true,\"view\":true,\"lore\":true,\"prac\":true,\"story\":true},\"vicSheathe\":{\"sheathed\":{\"again\":false,\"noto\":19},",
+  "layout:844x390:touch: 通过（21s）  {\"errs\":[],\"size\":[844,303],\"over\":[],\"n\":278,\"zh\":[],\"comic\":\"------------------------------\",\"endArt\":\"--\"}",
+  "layout:500x860:touch: 通过（19s）  {\"errs\":[],\"size\":[500,773],\"over\":[],\"n\":278,\"zh\":[],\"comic\":\"CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC\",\"endArt\":\"--\"}",
+  "layout:390x844:touch: 通过（16s）  {\"errs\":[],\"size\":[390,844],\"over\":[],\"n\":278,\"zh\":[],\"comic\":\"CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC\",\"endArt\":\"--\"}",
+  "layout:375x667:touch: 通过（15s）  {\"errs\":[],\"size\":[375,667],\"over\":[],\"n\":278,\"zh\":[],\"comic\":\"CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC\",\"endArt\":\"--\"}",
+  "site: 本机地址能进主页 通过",
+  "site: localhost 也行 通过",
+  "site: 本地文件打开只有盗版提示 通过",
+  "site: 解密后的代码搬到别处也停 通过"
+ ]
+}
