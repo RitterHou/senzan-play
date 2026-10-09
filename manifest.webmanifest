@@ -1,0 +1,16 @@
+{
+  "name": "千斩 SENZAN",
+  "short_name": "千斩",
+  "description": "一把武士刀杀穿黑曜集团的像素动作游戏",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0b0816",
+  "theme_color": "#0b0816",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
